@@ -8,7 +8,7 @@ A passionate Backend developer from Uzbekistan
 - 📫 How to reach me: [Telegram](https://t.me/yourtelegram), [Email](mailto:yourmail@gmail.com)
 
 ## Connect with me:
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/yourtelegram)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/ganniyev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
 
 ## Languages and Tools:
