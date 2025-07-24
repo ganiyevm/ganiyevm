@@ -5,7 +5,7 @@ A passionate Backend developer from Uzbekistan
 - 🔭 I’m currently working on **Vue, NodeJS, MongoDB, ...**
 - 🌱 I’m currently learning **Docker, Kubernetes, DevOps**
 - 💬 Ask me about **NodeJS, Express, Vue, MongoDB, REST API**
-- 📫 How to reach me: [Telegram](https://t.me/@ganniyev), [Email](mailto:xusniddinganiyev47@gmail.com)
+- 📫 How to reach me: [Telegram](https://t.me/ganniyev), [Email](mailto:xusniddinganiyev47@gmail.com)
 
 ## Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/ganniyev)
